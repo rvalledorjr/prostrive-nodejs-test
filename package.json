@@ -1,0 +1,20 @@
+{
+  "name": "prostrive-nodejs-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rvalledorjr/prostrive-nodejs-test.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rvalledorjr/prostrive-nodejs-test/issues"
+  },
+  "homepage": "https://github.com/rvalledorjr/prostrive-nodejs-test#readme"
+}
